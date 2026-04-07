@@ -38,7 +38,7 @@ It is ideal for developers, researchers, and content creators looking to automat
 The orchestrator follows a structured **Directed Acyclic Graph (DAG)**:
 
 <p align="center">
-  <img src="graph.png" alt="Advanced Blog Generation Agent" width="300" height="500"/>
+  <img src="graph.png" alt="Advanced Blog Generation Agent" width="200" height="500"/>
 </p>
 
 
