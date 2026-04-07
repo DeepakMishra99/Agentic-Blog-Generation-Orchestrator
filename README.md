@@ -29,7 +29,7 @@ It is ideal for developers, researchers, and content creators looking to automat
 * [Examples](#-examples)
 * [Troubleshooting](#-troubleshooting)
 * [Contributors](#-contributors)
-* [License](#-license)
+
 
 ---
 
@@ -194,16 +194,11 @@ python main.py --topic "The Future of Agentic AI in 2026"
 
 ## 👥 Contributors
 
-* Your Name (@your-github-username)
+* Your Name ([@DeepakMishra99])
 * Open for contributions 🚀
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute.
-
----
 
 ## 🌟 Final Notes
 
